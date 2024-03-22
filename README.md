@@ -1,16 +1,28 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**hugocharels/hugocharels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Hugo Charles, a student currently pursuing a Bachelor's degree in Computer Science at Université libre de Bruxelles.
 
-Here are some ideas to get you started:
+## Education
+- **Bachelor of Science in Computer Science**
+  - **University**: Université libre de Bruxelles
+  - **Year**: 3rd year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages**: C++, C, Python, Java
+
+## Featured Projects
+Here are some of the projects I've worked on recently:
+- [Design Pattern Catalog](https://github.com/hugocharels/Design_Pattern_Catalog) - A Design Pattern Catalog in french with code example in Java.
+
+## Contact Me
+- [LinkedIn](https://be.linkedin.com/in/hugo-charels)
+
+Feel free to reach out to me if you'd like to discuss collaborations, open-source projects, or anything related to technology!
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugocharels&show_icons=true&theme=radical)
+
+</div>
+
