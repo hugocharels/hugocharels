@@ -16,7 +16,7 @@ Here are some of the projects I've worked on recently:
 - [Design Pattern Catalog](https://github.com/hugocharels/Design_Pattern_Catalog) - A Design Pattern Catalog in french with code example in Java.
 
 ## Contact Me
-- [LinkedIn](https://www.linkedin.com/in/hugo-charels-86b6092a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [LinkedIn](www.linkedin.com/in/hugo-charels-86b6092a1)
 
 Feel free to reach out to me if you'd like to discuss collaborations, open-source projects, or anything related to technology!
 
